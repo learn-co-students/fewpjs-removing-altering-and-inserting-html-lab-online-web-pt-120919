@@ -5,4 +5,4 @@ elementMain.remove();
 
 var newHeader = document.createElement("h1");
 newHeader.setAttribute("id", "victory");
-newHeader.textContent = "Arv is the champion";
+newHeader.textContent = "Janay is the champion";
